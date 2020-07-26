@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I am Reshmi Ranjith, a senior going to the University of Texas at Dallas. I came across my passion for Computer Science accidentally, and since then I have been pursuing many different opportunities to explore the field.
 Feel free to connect or chat with me on [LinkedIn](https://www.linkedin.com/in/reshmi-ranjith/) or view my Hackathon project porfolio on [Devpost](https://devpost.com/ReshmiCode)!
@@ -8,6 +8,7 @@ Feel free to connect or chat with me on [LinkedIn](https://www.linkedin.com/in/r
 Since quarantine started, I have had extra time. I started a Today I Learned posting to document what I learn/do each day. Eventually, I'll make my own website but for now here's the past 5 posts:
 
 <!-- BLOG-POST-LIST:START -->
+
 - [MERN Course](https://simplyprogramming.tumblr.com/post/624659387406024704)
 - [Today I got reminded that the finally block at the end of a try catch blocks runs regardless if an...](https://simplyprogramming.tumblr.com/post/624551311119138816)
 - [Today I was working on adding the functionality of querying the servers for the services they have...](https://simplyprogramming.tumblr.com/post/624486307740123136)
