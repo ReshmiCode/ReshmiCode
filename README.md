@@ -9,11 +9,11 @@
 Since quarantine started, I have had extra time. I started making Today I Learned posts to motivate and document something new I learn each day. Eventually, I'll make my own website but for now here's the past 5 posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Today I had a technical interview question in which I could use a hashmap. I thought using a hashmap...](https://simplyprogramming.tumblr.com/post/625304123458338816)
+- [Today I learned another way a company does QA. It was interesting to see how they needed to be more...](https://simplyprogramming.tumblr.com/post/625266530914041856)
 - [Today I learned how to chain Powershell commands using the semicolon. I wanted information from...](https://simplyprogramming.tumblr.com/post/625120054574497792)
 - [Today I learned more about Human Centered Design through PwC. Instead of assuming you know your...](https://simplyprogramming.tumblr.com/post/625002047006244864)
 - [Today I created a design and testing document for my intern project. I had to think back on the...](https://simplyprogramming.tumblr.com/post/624938189804666880)
-- [Today I had to add functionality to export to excel for my intern project. I had to try different...](https://simplyprogramming.tumblr.com/post/624847779946266624)
-- [Today I learned that you can deploy a React app seperately from it&rsquo;s backend so it&rsquo;s on...](https://simplyprogramming.tumblr.com/post/624760327735738368)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
