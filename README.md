@@ -9,11 +9,11 @@
 Since quarantine started, I have had extra time. I started making Today I Learned posts to motivate and document something new I learn each day. Eventually, I'll make my own website but for now here's the past 5 posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Today I learned the basics of Alteryx. I knew Excel was powerful with features I didn&rsquo;t know...](https://simplyprogramming.tumblr.com/post/625650363416150016)
 - [Today I learned a bit more about the powershell npm library I am using. I thought I was catching the...](https://simplyprogramming.tumblr.com/post/625571821241204736)
 - [Today I refreshed on agile methodologies. I didn&rsquo;t know a retrospective meeting existed but...](https://simplyprogramming.tumblr.com/post/625484349484187648)
 - [Today I learned what feature engineering is in Machine Learning. I realized I had done it before,...](https://simplyprogramming.tumblr.com/post/625393675314298880)
 - [Today I had a technical interview question in which I could use a hashmap. I thought using a hashmap...](https://simplyprogramming.tumblr.com/post/625304123458338816)
-- [Today I learned another way a company does QA. It was interesting to see how they needed to be more...](https://simplyprogramming.tumblr.com/post/625266530914041856)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
