@@ -9,11 +9,11 @@
 Since quarantine started, I have had extra time. I started making Today I Learned posts to motivate and document something new I learn each day. Eventually, I'll make my own website but for now here's the past 5 posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [I’ve always disliked technical interviews because they don’t have a lot of correlation of the topics...](https://simplyprogramming.tumblr.com/post/626029334166142976)
 - [Today I realized the best company recruiting events I&rsquo;ve been to include talking about how...](https://simplyprogramming.tumblr.com/post/625943164703965184)
 - [Today I learned how to make an UIPath automation. Automations can really speed up time and you...](https://simplyprogramming.tumblr.com/post/625848820779139072)
 - [Today I learned there&rsquo;s different ways to have documentation but people might have preferences...](https://simplyprogramming.tumblr.com/post/625760522123509760)
 - [Today I learned the basics of Alteryx. I knew Excel was powerful with features I didn&rsquo;t know...](https://simplyprogramming.tumblr.com/post/625650363416150016)
-- [Today I learned a bit more about the powershell npm library I am using. I thought I was catching the...](https://simplyprogramming.tumblr.com/post/625571821241204736)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
