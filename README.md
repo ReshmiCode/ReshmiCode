@@ -9,11 +9,11 @@
 Since quarantine started, I have had extra time. I started making Today I Learned posts to motivate and document something new I learn each day. Eventually, I'll make my own website but for now here's the past 5 posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Today I learned that the UI designs that we think is fundamental is just patterns we learned. For...](https://simplyprogramming.tumblr.com/post/626936402865782784)
 - [Today I learned even if I say I&rsquo;m having a break day, it&rsquo;s usually not true. I was able...](https://simplyprogramming.tumblr.com/post/626484385354514432)
 - [Today I learned how to hide the autocomplete programmatically. For some reason just setting the...](https://simplyprogramming.tumblr.com/post/626390213270355968)
 - [Today I learned that I actually geek over new tech 😆 I noticed Detox, an end to end testing library...](https://simplyprogramming.tumblr.com/post/626298225674141696)
 - [Today I had to refactor how I was writing to the Excel I was using as a database. Previously I was...](https://simplyprogramming.tumblr.com/post/626207878084182017)
-- [For some reason my project runs really slow on the Infosys computers, it might be because they...](https://simplyprogramming.tumblr.com/post/626122717572333568)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
