@@ -9,11 +9,11 @@
 Since quarantine started, I have had extra time. I started making Today I Learned posts to motivate and document something new I learn each day. Eventually, I'll make my own website but for now here's the past 5 posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Today I read through some of the Angular testing documentation. The last repo left at work without...](https://simplyprogramming.tumblr.com/post/628931837958471680)
 - [Today I learned that I do miss my artistic side. With school, work, and clubs I’ve been too busy to...](https://simplyprogramming.tumblr.com/post/628655293392453632)
 - [Today I learned about the different types of Cloud computing. I refreshed myself on the benefits and...](https://simplyprogramming.tumblr.com/post/628479055250046976)
 - [I had to research about AI for a homework assignment, and I learned there are three divisions of AI:...](https://simplyprogramming.tumblr.com/post/628437084507652096)
 - [Today I learned about how facial recognition technologies pose ethical dilemmas in both creating and...](https://simplyprogramming.tumblr.com/post/628026827437375488)
-- [Today I used git stashes for the first time. I usually have local changes I don&rsquo;t want pushed...](https://simplyprogramming.tumblr.com/post/627479475248119808)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
