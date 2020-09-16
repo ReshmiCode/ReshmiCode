@@ -9,11 +9,11 @@
 Since quarantine started, I have had extra time. I started making Today I Learned posts to motivate and document something new I learn each day. Eventually, I'll make my own website but for now here's the past 5 posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Today I learned how important it is to plan out the risks in the project management lifecycle. You...](https://simplyprogramming.tumblr.com/post/629382675221889024)
+- [Today I learned about relational database schemas and converting between those and ER diagrams. I...](https://simplyprogramming.tumblr.com/post/629334829167755264)
 - [I learned how flex can easily help align components in rows or columns. CSS isn&rsquo;t my strong...](https://simplyprogramming.tumblr.com/post/629202061838499840)
 - [I learned the difference between rooms and namespaces in Socket.io briefly to decide which to use....](https://simplyprogramming.tumblr.com/post/629108037341364224)
 - [Today I learned the basics of GraphQL. It was super interesting to learn how it can save time as we...](https://simplyprogramming.tumblr.com/post/629029518431207424)
-- [Today I read through some of the Angular testing documentation. The last repo left at work without...](https://simplyprogramming.tumblr.com/post/628931837958471680)
-- [Today I learned that I do miss my artistic side. With school, work, and clubs I’ve been too busy to...](https://simplyprogramming.tumblr.com/post/628655293392453632)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
