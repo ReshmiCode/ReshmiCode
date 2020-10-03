@@ -9,11 +9,11 @@
 Since quarantine started, I have had extra time. I started making Today I Learned posts to motivate and document something new I learn each day. Eventually, I'll make my own website but for now here's the past 5 posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Today I learned a bit about Firebase Cloud functions and its pricing tiers. I also started learning...](https://simplyprogramming.tumblr.com/post/630923356375564289)
+- [I contributed to open source for the first time today! It was through GHC’s OOD and I helped on a...](https://simplyprogramming.tumblr.com/post/630886815633670144)
 - [I realized since I upgraded my phone I had to upgrade XCode to work with it. XCode said it needed 11...](https://simplyprogramming.tumblr.com/post/630748042978590720)
 - [Today I learned about the three steps in facial detection technology: detection, analysis, and...](https://simplyprogramming.tumblr.com/post/630556845276315648)
 - [I was studying for my Human Computer Interactions test and was going over memory. We learned how to...](https://simplyprogramming.tumblr.com/post/630473340016017408)
-- [Today I had to make two Typeforms for a club and I had to play around with the skipping of...](https://simplyprogramming.tumblr.com/post/630381063959724032)
-- [For a hackathon this weekend we decided on using Vue as it was more beginner friendly for everyone...](https://simplyprogramming.tumblr.com/post/630295176360984576)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
