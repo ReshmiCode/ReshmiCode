@@ -9,11 +9,11 @@
 Since quarantine started, I have had extra time. I started making Today I Learned posts to motivate and document something new I learn each day. Eventually, I'll make my own website but for now here's the past 5 posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Today I came across the fact that the testing library we use for our React apps has an Angular...](https://simplyprogramming.tumblr.com/post/632051927595778048)
 - [Today I learned of Spectator for use in Angular testing. There is a bunch of boilerplate code for...](https://simplyprogramming.tumblr.com/post/631286393349472256)
 - [Today I learned how to make a file upload on a C# windows form. I assumed it was a component you...](https://simplyprogramming.tumblr.com/post/631016060311732224)
 - [Today I learned a bit about Firebase Cloud functions and its pricing tiers. I also started learning...](https://simplyprogramming.tumblr.com/post/630923356375564289)
 - [I contributed to open source for the first time today! It was through GHC’s OOD and I helped on a...](https://simplyprogramming.tumblr.com/post/630886815633670144)
-- [I realized since I upgraded my phone I had to upgrade XCode to work with it. XCode said it needed 11...](https://simplyprogramming.tumblr.com/post/630748042978590720)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
