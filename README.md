@@ -9,11 +9,11 @@
 Since quarantine started, I have had extra time. I started making Today I Learned posts to motivate and document something new I learn each day. Eventually, I'll make my own website but for now here's the past 5 posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Today I figured out the issue I was having with PrimeNG form values for Angular testing was for some...](https://simplyprogramming.tumblr.com/post/632778579963478016)
 - [Today I learned just how a small core CSS change can effect an application. Apparently, all inputs...](https://simplyprogramming.tumblr.com/post/632555923626475520)
 - [Today was finally Hacktoberfest, the event I’ve been helping organize for two months! It was...](https://simplyprogramming.tumblr.com/post/632506214282035200)
 - [In Angular tests have to import every dependency which can be a lot for integration tests. I learned...](https://simplyprogramming.tumblr.com/post/632146804526497792)
 - [Today I came across the fact that the testing library we use for our React apps has an Angular...](https://simplyprogramming.tumblr.com/post/632051927595778048)
-- [Today I learned of Spectator for use in Angular testing. There is a bunch of boilerplate code for...](https://simplyprogramming.tumblr.com/post/631286393349472256)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
