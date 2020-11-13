@@ -9,11 +9,11 @@
 Since quarantine started, I have had extra time. I started making Today I Learned posts to motivate and document something new I learn each day. Eventually, I'll make my own website but for now here's the past 5 posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Today I noticed fireEvent.change and .input as well as userEvent.type which aims to do the same...](https://simplyprogramming.tumblr.com/post/634596625938038784)
 - [Today I learned how to think about how to decompose a schema from 1NF to 2NF. Our professor had gone...](https://simplyprogramming.tumblr.com/post/633142201330892800)
 - [Today I finally used GraphQL in a hackathon project. I only used it to read from the database, but...](https://simplyprogramming.tumblr.com/post/633142102479503360)
 - [Today I figured out the issue I was having with PrimeNG form values for Angular testing was for some...](https://simplyprogramming.tumblr.com/post/632778579963478016)
 - [Today I learned just how a small core CSS change can effect an application. Apparently, all inputs...](https://simplyprogramming.tumblr.com/post/632555923626475520)
-- [Today was finally Hacktoberfest, the event I’ve been helping organize for two months! It was...](https://simplyprogramming.tumblr.com/post/632506214282035200)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
