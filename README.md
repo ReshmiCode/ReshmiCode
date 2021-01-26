@@ -15,7 +15,3 @@ Since quarantine started, I have had extra time. I started making Today I Learne
 - [Today I noticed fireEvent.change and .input as well as userEvent.type which aims to do the same...](https://simplyprogramming.tumblr.com/post/634596625938038784)
 - [Today I learned how to think about how to decompose a schema from 1NF to 2NF. Our professor had gone...](https://simplyprogramming.tumblr.com/post/633142201330892800)
 <!-- BLOG-POST-LIST:END -->
-
-## Hackathon Wall
-
-![My Wall](https://idemoed.vercel.app/api/wall?username=ReshmiCode)
