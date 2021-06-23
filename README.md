@@ -9,9 +9,9 @@
 Since quarantine started, I have had extra time. I started making Today I Learned posts to motivate and document something new I learn each day. Eventually, I'll make my own website but for now here's the past 5 posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [I learned about using the yargs library in creating a CLI. It was actually really confusing for me...](https://simplyprogramming.tumblr.com/post/654732156710617088)
+- [Today I finally got the authentication process to work. Some of the issues I faced were that the...](https://simplyprogramming.tumblr.com/post/654700043339759616)
+- [I’ve been looking into good standards for making CLIs and one thing mentioned is to keep the...](https://simplyprogramming.tumblr.com/post/654704411967373312)
 - [Today I learned a bit about how to have two Github accounts on your computer. I didn&rsquo;t end up...](https://simplyprogramming.tumblr.com/post/653481530111459328)
 - [Today I learned about some node libraries that would be useful for making CLIs. An interesting one...](https://simplyprogramming.tumblr.com/post/653120138509533184)
-- [Today I learned how to add a parameter to a GraphQL request. I wonder how many different queries are...](https://simplyprogramming.tumblr.com/post/653029685553512448)
-- [Today I learned more about what a developer CLI can provide by looking at Shopify&rsquo;s as an...](https://simplyprogramming.tumblr.com/post/652937672794505216)
-- [Today I started a GraphQL course and I learned the differences between it and a RESTful api. I also...](https://simplyprogramming.tumblr.com/post/652843252653998080)
 <!-- BLOG-POST-LIST:END -->
