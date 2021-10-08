@@ -4,6 +4,10 @@
 <br/> ⚡ Fun fact: I'm trying to learn the ukulele! I initially got it to keep me off technology for a bit, but then I realized I needed my computer to watch the Youtube tutorials...
 <br/>📫  How to reach me: Feel free to connect or chat with me on [LinkedIn](https://www.linkedin.com/in/reshmi-ranjith/) or view my Hackathon project porfolio on [Devpost](https://devpost.com/ReshmiCode)!
 
+## My Hackathon Wall
+I love attending hackathons! Here are all the ones I've attended which used Devpost.
+![My Wall](https://idemoed.vercel.app/api/wall?username=ReshmiCode&pr=10)
+
 ## Today I Learned
 
 Since quarantine started, I have had extra time. I started making Today I Learned posts to motivate and document something new I learn each day. Eventually, I'll make my own website but for now here's the past 5 posts:
