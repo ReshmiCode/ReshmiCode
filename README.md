@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭  Intro: I am Reshmi Ranjith, a senior going to the University of Texas at Dallas. I came across my passion for Computer Science accidentally, and since then I have been pursuing many different opportunities to explore the field.
+🔭  Intro: I am Reshmi Ranjith, a Masters student going to the University of Texas at Dallas. I came across my passion for Computer Science accidentally, and since then I have been pursuing many different opportunities to explore the field.
 <br/> ⚡ Fun fact: I'm trying to learn the ukulele! I initially got it to keep me off technology for a bit, but then I realized I needed my computer to watch the Youtube tutorials...
 <br/>📫  How to reach me: Feel free to connect or chat with me on [LinkedIn](https://www.linkedin.com/in/reshmi-ranjith/) or view my Hackathon project porfolio on [Devpost](https://devpost.com/ReshmiCode)!
 
