@@ -14,8 +14,8 @@ Since quarantine started, I have had extra time. I started making Today I Learne
 
 <!-- BLOG-POST-LIST:START -->
 - [Today I learned about the different annotations beans can have](https://simplyprogramming.tumblr.com/post/661958123846844416)
-- [Java Spring Notes](https://simplyprogramming.tumblr.com/post/661320800766427136)
 - [I’m learning Java Spring for my new job and today](https://simplyprogramming.tumblr.com/post/661317186515877888)
 - [Today I learned how to take a graphQL schema...](https://simplyprogramming.tumblr.com/post/658071426625142784)
 - [Today I learned about GraphQL subscriptions...](https://simplyprogramming.tumblr.com/post/657883907599024128)
+- [Today I learned more about the benefits of using Apollo Client...](https://simplyprogramming.tumblr.com/post/657341134105870336)
 <!-- BLOG-POST-LIST:END -->
