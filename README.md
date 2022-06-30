@@ -13,9 +13,9 @@ I love attending hackathons! Here are all the ones I've attended which used Devp
 Since quarantine started, I have had extra time. I started making Today I Learned posts to motivate and document something new I learn each day. Eventually, I'll make my own website but for now here's the past 5 posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Today I Learned](https://simplyprogramming.tumblr.com/post/688410852274143233)
+- [Today I started learning Flutter as I have free time over the summer](https://simplyprogramming.tumblr.com/post/686871122356191232)
 - [Today I learned about the different annotations beans can have](https://simplyprogramming.tumblr.com/post/661958123846844416)
 - [I’m learning Java Spring for my new job and today](https://simplyprogramming.tumblr.com/post/661317186515877888)
 - [Today I learned how to take a graphQL schema...](https://simplyprogramming.tumblr.com/post/658071426625142784)
-- [Today I learned about GraphQL subscriptions...](https://simplyprogramming.tumblr.com/post/657883907599024128)
-- [Today I learned more about the benefits of using Apollo Client...](https://simplyprogramming.tumblr.com/post/657341134105870336)
 <!-- BLOG-POST-LIST:END -->
