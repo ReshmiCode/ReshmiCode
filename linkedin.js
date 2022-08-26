@@ -1,10 +1,12 @@
 let reshmi = {
-  devExperience: ["Full Stack", "Mobile", "Quality Assurance"],
+  devExperience: ["Backend", "Full Stack", "Mobile", "Quality Assurance"],
   techLeadership: {
-    cohortLeader: "Rewriting The Code",
-    educationOfficer: "Association for Computing Machinery - UTD",
-    treasurer: "Women Mentoring Women In Engineering",
+    associationForComputingMachinery: ["Co VP, Director of Education"],
+    womenMentoringWomenInEngineering: ["Treasurer, Mentoring Team Manager"],
   },
-  hobbies: ["hackathons", "graphic design", "learning"],
+  degrees: ["BSc in Software Engineering", "MSc in Software Engineering"],
+  hobbies: ["hackathons", "graphic design", "crafting", "learning"],
   passion: "Introducing and engaging others in STEM",
 };
+
+// color theme: monokai dimmed
