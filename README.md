@@ -13,9 +13,9 @@ I love attending hackathons! Here are all the ones I've attended which used Devp
 Since quarantine started, I have had extra time. I started making Today I Learned posts to motivate and document something new I learn each day. Eventually, I'll make my own website but for now here's the past 5 posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Today I learned about all the different kinds of...](https://simplyprogramming.tumblr.com/post/694871495818739712)
 - [Today I learned about the two different types of ListViews...](https://simplyprogramming.tumblr.com/post/689043726886191104)
 - [Today I learned about the differences between putting const...](https://simplyprogramming.tumblr.com/post/688591324925067264)
 - [Today I learned that you can make classes private by...](https://simplyprogramming.tumblr.com/post/688501710196473856)
 - [Today I learned about how to use named arguments...](https://simplyprogramming.tumblr.com/post/688410852274143233)
-- [Today I started learning Flutter as I have free time over the summer...](https://simplyprogramming.tumblr.com/post/686871122356191232)
 <!-- BLOG-POST-LIST:END -->
